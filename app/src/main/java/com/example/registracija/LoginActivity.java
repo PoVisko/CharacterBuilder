@@ -48,6 +48,6 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
-        // Git test line
+        // Git test ln
     }
 }
