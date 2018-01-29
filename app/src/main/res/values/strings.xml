@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="login_name">ROBOTO REGISTRAVIMO SISTEMA</string>
+    <string name="login_username">Prisijungimo vardas</string>
+    <string name="login_password">Slaptažodis</string>
+    <string name="register_email">El. Paštas</string>
+    <string name="login_remember_me">Prisiminti mane</string>
+    <string name="login_button_login">Prisijungti</string>
+    <string name="login_button_register">Registruotis</string>
+    <string name="login_invalid_username">Klaidingai įvestas prisijungimo vardas</string>
+    <string name="login_invalid_email">Klaidingai įvestas el. paštas</string>
+    <string name="login_invalid_password">Klaidingai įvestas slaptažodis</string>
+
+</resources>
