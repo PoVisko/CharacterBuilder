@@ -47,5 +47,7 @@ public class LoginActivity extends AppCompatActivity {
                 startActivity(goToRegisterActivity);
             }
         });
+
+        // Git test line
     }
 }
